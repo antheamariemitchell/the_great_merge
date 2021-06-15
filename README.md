@@ -1,5 +1,4 @@
-# the_great_merge
-csv merging python script
+    --The Great Merge--
 
 Combining CSVs: Useful Code Attempt 1
 
