@@ -15,3 +15,5 @@ Goals for this script:
 5. Check for symmetry based on sample name and remove any mismatches, then output a list of what those are is a separate file
 
 6. Combine two CSVs based on sample name and output a separate merged file
+
+7. Also contains a much shorter, and often times more practical python script for a simple merge of csvs by name column. This script strips out those samples that do not have matching corresponding samples in other CSVs, without clarifying which ones are being removed. This must be manually checked.
