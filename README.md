@@ -4,9 +4,9 @@ Combining CSVs: Useful Code Attempt 1
 
 Goals for this script:
 
-1. Make a chunk of code that does something useful
+1. Make a chunk of code that improves workflow
 
-2. Be written in such a way so as to be universal, variables rather than exact names so there are minimal changes required by user
+2. Ensure it's written in such a way so as to be universal, variables rather than exact names so there are minimal changes required by user
 
 3. Count number of controls as an additional bonus at the end
 
